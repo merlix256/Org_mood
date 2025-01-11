@@ -1,0 +1,89 @@
+* NATUURKUNDE STUDIEPLAN [2 UUR]
+** VOORBEREIDING [10 min]
+*** TODO Studieplek inrichten
+    - Zoek een rustige plek
+    - Verzamel materialen (rekenmachine, schrift, schrijfgerei)
+    - Zet water klaar
+    - Stel timer in voor 25-minuten intervallen
+    - Open digitaal/fysiek tekstboek bij Hoofdstuk 1
+
+** EERSTE STUDIEBLOK [25 min] - Hoofdstuk 1: Inleidende begrippen
+*** TODO Basisconcepten Doornemen [15 min]
+    - Grootheden en eenheden (1.1)
+    - Vraagstukken oplossen (1.2)
+    - Omzetten van eenheden (1.3)
+    - Nauwkeurigheid en beduidende cijfers (1.4)
+
+*** TODO Korte Oefening [10 min]
+    - Los 2-3 opgaven op uit 1.5
+    - Focus op eenheden omrekenen
+
+** PAUZE [5 min]
+*** TODO Actieve Pauze
+    - Sta op en rek je uit
+    - Haal frisse lucht
+    - Geen telefoon/schermen
+
+** TWEEDE STUDIEBLOK [25 min] - Hoofdstuk 2: Druk
+*** TODO Druk Concepten [15 min]
+    - Relatie tussen kracht en oppervlakte (2.1)
+    - Druk als natuurkundige grootheid (2.2)
+    - Drukeenheden (2.3)
+    - Grootteordeschaal van druk (2.4)
+
+*** TODO Oefenopgaven [10 min]
+    - Maak 2-3 opgaven uit 2.5
+    - Focus op eenheden en basisberekeningen
+
+** PAUZE [5 min]
+*** TODO Actieve Pauze
+    - Korte wandeling
+    - Drink water
+    - Herhaal hoofdpunten in gedachten
+
+** DERDE STUDIEBLOK [25 min] - Hoofdstuk 3: Druk bij fluïda
+*** TODO Vloeistofdruk Concepten [15 min]
+    - Hydrostatische druk (3.1)
+    - Wet van Pascal (3.2)
+    - Toepassing: hydraulische pers (3.3)
+    - Communicerende vaten (3.4)
+    - Wet van Archimedes (3.5)
+
+*** TODO Opgaven Maken [10 min]
+    - Werk één voorbeeld uit 3.6 door
+    - Focus op begrip van het proces
+
+** LAATSTE BLOK [25 min] - Hoofdstuk 4 & Herhaling
+*** TODO Gasdruk [15 min]
+    - Het deeltjesmodel (4.1)
+    - Ideale en reële gassen (4.2)
+    - Wet van Boyle-Mariotte (4.3)
+
+*** TODO Eindoverzicht [10 min]
+    - Maak een mindmap van belangrijke concepten
+    - Noteer kernformules
+    - Identificeer onderdelen die extra aandacht nodig hebben
+
+* STUDIETIPS
+** Actief Leren
+*** Maak je eigen voorbeelden
+*** Teken schema's
+*** Leg concepten hardop uit
+*** Schrijf formules in eigen woorden op
+
+** Tijdmanagement
+*** Gebruik Pomodoro techniek (25 min studeren, 5 min pauze)
+*** Stel specifieke doelen per studieblok
+*** Volg voortgang met org-mode checkboxes
+
+** Begripcontrole
+*** Vraag jezelf na elk onderdeel:
+    - Kan ik dit aan iemand anders uitleggen?
+    - Hoe hangt dit samen met eerdere onderwerpen?
+    - Wat zijn praktische toepassingen?
+
+** Aanpak Vraagstukken
+*** LEES: Begrijp wat gegeven is en gevraagd wordt
+*** PLAN: Kies relevante formules en aanpak
+*** REKEN: Werk stap voor stap
+*** CHECK: Controleer eenheden en of antwoord logisch is
