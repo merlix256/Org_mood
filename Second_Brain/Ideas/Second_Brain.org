@@ -87,3 +87,12 @@
 *** PLAN: Kies relevante formules en aanpak
 *** REKEN: Werk stap voor stap
 *** CHECK: Controleer eenheden en of antwoord logisch is
+
+
+* My To-Do List
+** TODO Study for Physics Exam
+   DEADLINE: <2025-01-15>
+** TODO Practice Math Olympiad Problems
+** PROJ Finish Habit Tracker Project for Merwanics
+   SCHEDULED: <2025-01-13>
+** DONE Buy Bearings for 3D-Printed Yo-Yo
